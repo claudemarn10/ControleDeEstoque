@@ -6,6 +6,6 @@ $username = "root";     // padrao root
 $password = "";     // senha de conexao do bd
 
 //create connection
-$conexao = mysqli_connect($servername, $username,$password, $database) or die(mysql_error());
+$conexao = mysqli_connect($servername, $username,$password, $database);
 
 ?>

@@ -1,7 +1,7 @@
 <?php
 
 $servername ="localhost"; // padrao - server local
-$database ="curso"; // alterar conforme o nome do banco de dados
+$database ="tihaccr"; // alterar conforme o nome do banco de dados
 $username = "root";     // padrao root
 $password = "";     // senha de conexao do bd
 

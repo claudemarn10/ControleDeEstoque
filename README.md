@@ -1,2 +1,2 @@
 # ControleDeEstoque
-Sistema de Controle de estoque  utilizando tecnologia Bootstrap PHP e Mysql
+Sistema de Controle de estoque  utilizando tecnologias Bootstrap, PHP e Mysql
